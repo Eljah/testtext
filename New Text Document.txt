@@ -1,5 +1,9 @@
 stroke 1
+<<<<<<< .merge_file_a47852
 1à
+=======
+1à-2
+>>>>>>> .merge_file_a41140
 stroke 2
 2b
 stroke 3

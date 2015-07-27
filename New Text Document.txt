@@ -4,4 +4,3 @@ stroke 2
 2
 stroke 3
 3
-4

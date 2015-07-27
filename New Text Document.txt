@@ -1,6 +1,6 @@
 stroke 1
 1à
 stroke 2
-2
+2b
 stroke 3
 3

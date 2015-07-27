@@ -1,5 +1,5 @@
 stroke 1
-1
+1à-2
 stroke 2
 2
 stroke 3
